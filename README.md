@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Andrey da Hora</h1>
 <h3 align="center">Full-Stack Developer</h3>
 
-- 🚩 I’m currently learning **JavaScrpt, C#, PHP, Python and more...**
+- 🚩 I’m currently learning **JavaScript, C#, PHP, Python and more...**
 
 - 📫 How to reach me **adahorapirola@gmail.com**
 
