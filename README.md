@@ -13,6 +13,12 @@
 <p align="left">
 <a href="mailto:adahorapirola@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
 </p>
+<div align="center">
+  <a href="https://https://github.com/Notsumez">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Notsumez&show_icons=true&theme=dark&include_all_commits=true&count_public=true"/>
+    
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Notsumez&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
 <h3 align="left">Languages and Tools:</h3>
 Front-End
@@ -33,3 +39,4 @@ Languages
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="30" width="40"></p>
 Other
 <p align="left"><a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a></p>
+
