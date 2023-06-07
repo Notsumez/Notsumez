@@ -5,9 +5,11 @@
 
 - 📫 How to reach me **adahorapirola@gmail.com**
 
+- 📄 Check my <a href="https://notsume.notion.site/Curr-culo-Notion-Andrey-da-Hora-4b59bbb7ef90471c98e17dcf0430bc54?pvs=4" target="_blank">**"Notion Curriculum"**</a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/andrey-da-hora-pirola-792716247/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="soaresgus" /></a>
+<a href="https://www.linkedin.com/in/andrey-da-hora-pirola-792716247/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="soaresgus" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
