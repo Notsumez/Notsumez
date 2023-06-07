@@ -10,16 +10,6 @@
 <a href="https://www.linkedin.com/in/andrey-da-hora-pirola-792716247/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="soaresgus" /></a>
 </p>
 
-<p align="left">
-<a href="mailto:adahorapirola@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
-</p>
-<div align="center">
-  <a href="https://https://github.com/Notsumez">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Notsumez&show_icons=true&theme=dark&include_all_commits=true&count_public=true"/>
-    
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Notsumez&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
 <h3 align="left">Languages and Tools:</h3>
 Front-End
 <p align="left">  
