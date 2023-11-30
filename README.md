@@ -1,9 +1,9 @@
-<h1 align="center">Hello 👋, I'm Andrey da Hora</h1>
+<h1 align="center">Hello 👋, I'm Notsume</h1>
 <h3 align="center">Full-Stack Developer</h3>
 
 - 🚩 I’m currently learning **JavaScript, C#, PHP, Python and more...**
 
-- 📫 How to reach me **adahorapirola@gmail.com**
+- 📫 How to reach me **notsumez@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
