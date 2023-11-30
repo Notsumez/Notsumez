@@ -1,14 +1,8 @@
-<h1 align="center">Hello 👋, I'm Notsume</h1>
-<h3 align="center">Full-Stack Developer</h3>
+<h1 align="center">Full-Stack Developer</h1>
 
 - 🚩 I’m currently learning **JavaScript, C#, PHP, Python and more...**
 
 - 📫 How to reach me **notsumez@outlook.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/andrey-da-hora-pirola-792716247/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="soaresgus" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 Front-End
@@ -17,8 +11,11 @@ Front-End
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> </p>
 Back-End
 <p align="left"> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  </p>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"    
+  alt="mysql" width="40" height="40"/> </a> 
+  <a href="https://www.svgrepo.com/show/353985/laravel.svg" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/353985/laravel.svg"    
+  alt="laravel" width="40" height="40"/> </a> 
+</p>
 Languages
 <p align="left"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
