@@ -1,8 +1,8 @@
 <h1 align="center">Full-Stack Developer</h1>
 
-- 🚩 I’m currently learning **JavaScript, C#, PHP, Python and more...**
+<h3>Connect With Me</h3>
 
-- 📫 How to reach me **notsumez@outlook.com**
+- ✉️ **notsumez@outlook.com**
 
 <h3 align="left">Languages and Tools:</h3>
 Front-End
@@ -11,9 +11,9 @@ Front-End
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> </p>
 Back-End
 <p align="left"> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"    
+  <a href="https://www.mysql.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"    
   alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://www.svgrepo.com/show/353985/laravel.svg" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/353985/laravel.svg"    
+  <a href="https://laravel.com" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/353985/laravel.svg"    
   alt="laravel" width="40" height="40"/> </a> 
 </p>
 Languages
