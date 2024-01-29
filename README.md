@@ -2,7 +2,7 @@
 
 <h3>Connect With Me</h3>
 
-- ✉️ **notsumez@outlook.com**
+- ✉️ **notsumez@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
 Front-End
