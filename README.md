@@ -7,7 +7,7 @@
 <h3 align="left">Languages and Tools:</h3>
 Front-End
 <p align="left">  
-  <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angularjs" width="40" height="40"/> </a> 
+  <a href="https://angular.dev" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angularjs" width="40" height="40"/> </a> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303293/bootstrap-4-logo.svg" alt="bootstrap" width="40" height="40"/> </a> 
   <a href="https://www.svgrepo.com/svg/452092/react" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/452092/react.svg" alt="ReactJS" width="40" height="40"/> </a> 
 </p>
