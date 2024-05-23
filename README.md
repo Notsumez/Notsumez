@@ -12,7 +12,8 @@ Front-End
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303293/bootstrap-4-logo.svg" alt="bootstrap" width="40" height="40"/></a> 
 <a href="https://www.svgrepo.com/svg/452092/react" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/452092/react.svg" alt="ReactJS" width="40" height="40"/></a> 
 <a href="https://tailwindcss.com" target="_blank" rel="noreferrer"> <img src="https://github.com/Notsumez/Notsumez/assets/112133823/88cd5e56-1b92-4144-99c9-b9dd97299986" alt="TailwindCSS" width="40" height="40"/></a> 
-<a href="https://jquery.com" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/jquery_plain_wordmark_logo_icon_146445.png" alt="JQuery" width="40" height="40"/></a> 
+<a href="https://jquery.com" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/jquery_plain_wordmark_logo_icon_146445.png" alt="JQuery" width="40" height="40"/></a>
+<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" alt="Sass" width="40" height="40"/></a>
 </p>
 Back-End
 <p align="left"> 
