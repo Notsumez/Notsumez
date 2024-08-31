@@ -3,7 +3,7 @@
 <h3>Connect With Me</h3>
 
 - 📚 I'm currently learning **ExpressJs**, **Java Spring Boot**, **NoSQL**, **MongoDB** and **Docker**
-- ✉️ **adahorapirola@gmail.com**
+- ✉️ **notsumez@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
 Front-End
