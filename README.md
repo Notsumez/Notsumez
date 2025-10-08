@@ -1,4 +1,4 @@
-<img src="https://media.discordapp.net/attachments/1395729426901237904/1408211153636819004/www.NOTSUMEZ.com.BR.png?ex=68a8ea56&is=68a798d6&hm=9e84d122950a43e2eab80b41a9c7ca16868d68d86595bd7ca16a2ffc1bc145d8&=&format=webp&quality=lossless&width=1088&height=544" alt="Banner" />
+<img src="https://media.discordapp.net/attachments/1395729426901237904/1408207218473701548/www.NOTSUMEZ.com.BR.png?ex=68e785ec&is=68e6346c&hm=73eeeacee0d130c71a68f3142c5f4d9b38e70e60553e34f4706045217b6c33aa&=&format=webp&quality=lossless&width=1088&height=544" alt="Banner" />
 
 ## ℹ About
 
