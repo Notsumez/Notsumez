@@ -1,5 +1,3 @@
-<img src="https://media.discordapp.net/attachments/1395729426901237904/1408207218473701548/www.NOTSUMEZ.com.BR.png?ex=68e785ec&is=68e6346c&hm=73eeeacee0d130c71a68f3142c5f4d9b38e70e60553e34f4706045217b6c33aa&=&format=webp&quality=lossless&width=1088&height=544" alt="Banner" />
-
 ## ℹ About
 
 - 🔭 &nbsp; Currently working on: **Espaço Cinthia França**.
