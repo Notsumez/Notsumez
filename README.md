@@ -1,7 +1,6 @@
 ## ℹ About
 
-- 🔭 &nbsp; Currently working on: **Espaço Cinthia França**.
-- 🌱 &nbsp; Studying and digging deeper in **.Net, Aspnet, Docker and NextJS**.
+- 🌱 &nbsp; Studying and digging deeper in **.Net, Aspnet and NestJS**.
 - 💬 &nbsp; Talk with me about **Game development, Websites, Mobile APPs and A.I.**
 - 📫 &nbsp; How to connect with me: **notsumez@gmail.com**.
 - ⚡ &nbsp; Fun fact about me: **Besides code, I like to draw pixel arts**.
